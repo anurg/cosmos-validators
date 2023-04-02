@@ -5,7 +5,7 @@ chain_id: innuendo-5
 node_version: v1.4.0-rc10.2
 repo: https://github.com/ingenuity-build/quicksilver.git
 genesis: "https://raw.githubusercontent.com/ingenuity-build/testnets/main/innuendo/genesis.json"
-seeds: "ade4d8bc8cbe014af6ebdf3cb7b1e9ad36f412c0@testnet-seeds.polkachu.com:11156"
+seeds: "3f472746f46493309650e5a033076689996c8881@quicksilver-testnet.rpc.kjnodes.com:11659"
 custom_port_prefix: 111
 upgrade_folder: v1.4.0-rc10
 
